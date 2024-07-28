@@ -1,7 +1,6 @@
 import React from "react";
 import Table from "../../Components/Table/Table";
 import RatioList from "../../Components/RatioList/RatioList";
-import { CompanyKeyMetrics } from "../../company";
 import { testIncomeStatementData } from "../../Components/Table/testData";
 
 type Props = {};
